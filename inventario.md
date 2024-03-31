@@ -1,3 +1,7 @@
 Matricola1
-Matricola 2 
-[Processori](./processori.md) 4)- [Schede Madri](./schede_madri.md)"periferiche" 
+Matricola2
+componenti:
+[Processori](./processori.md
+[Schede Madri](./schede_madri.md)
+periferiche
+"Elettronica_Padovana" 
